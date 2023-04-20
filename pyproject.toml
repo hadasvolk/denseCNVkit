@@ -1,5 +1,5 @@
 [project]
-name = "CNVkit"
+name = "denseCNVkit"
 description = "Copy number variation toolkit for high-throughput sequencing."
 readme = "README.rst"
 #license = "Apache-2.0"
